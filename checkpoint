@@ -1,0 +1,2 @@
+model_checkpoint_path: "Shi.pt"
+all_model_checkpoint_paths: "Shi.pt"
