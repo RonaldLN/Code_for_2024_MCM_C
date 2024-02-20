@@ -58,3 +58,8 @@ pip install -r requirements.txt
 -   `analyse_compare_precise_predictions.py` 用于对精确预测和不精确预测的输入数据进行分析
 -   `code_sample.py` 为最后用于论文展示的示例代码
 
+## 项目zip
+
+-   [`archived_version_of_project.zip`](zip_of_project/archived_version_of_project.zip)
+-   [`original_version_of_project.zip`](zip_of_project/original_version_of_project.zip)
+
