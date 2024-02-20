@@ -24,6 +24,20 @@ A repo for my code solving Problem C of 2024 MCM.
 
 # 说明
 
+## 原始题目和数据
+
+[`Code_for_2024_MCM_C/official_problem_and_data_files/`](official_problem_and_data_files)
+
+```txt
+.
+├── ...
+├── official_problem_and_data_files
+.   ├── 2024_MCM_Problem_C_FINAL.pdf
+.   ├── 2024_MCM_Problem_C_FINAL_谷歌翻译.pdf
+.   ├── data_dictionary.csv
+    └── Wimbledon_featured_matches.csv
+```
+
 ## 环境安装
 
 ```bash
