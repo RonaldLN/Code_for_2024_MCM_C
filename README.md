@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 -   `GRU_test_*.py` 用于测试使用TensorFlow GRU模型
 -   `final_*.py` 用于对决赛冠军的数据进行训练和预测
--   `all_data_process_step[n]_*.py` 用于处理整个赛季的数据，分成3步 `step1` `step2 `step3`
+-   `all_data_process_step[n]_*.py` 用于处理整个赛季的数据，分成3步 `step1` `step2` `step3`
     -   `public` 为处理第1轮16场*32进16*的比赛的32名选手的数据
     -   `champion` 为处理赛季冠军 **Carlos Alcaraz** 5轮比赛数据
     -   `2nd` 为处理赛季亚军 **Novak Djokovic** 5轮比赛数据
